@@ -4,5 +4,3 @@ print("address: Karjat")
 def myFunction():
     print("Hello from a function")
 myFunction()
-print("hello world")
-
